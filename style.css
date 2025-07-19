@@ -1,0 +1,93 @@
+body{
+  background-color: #f5f4f0;
+}
+
+main{
+  margin: 30px;
+  padding: 0;
+  /*border: 1px solid red;*/
+  font-family: 'Open Sans',sans-serif;
+}
+
+hr{
+  background-color: #d9d9d9;
+}
+
+
+header{
+
+}
+/*Início: Cores das Fontes*/
+.text-primary{
+  color: #1b1b1b;
+}
+
+.text-secondary{
+  color: #333333
+}
+
+.text-tertiary{
+  color: #696969
+}
+
+.headline{
+  color: #e95e10;
+  font-size: 16px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.history{
+  color: #0c51a7
+}
+
+.couples{
+  color: #591b98
+}
+
+.families{
+  color: #e5245e;
+}
+
+.budget{
+  color: #e95e10;
+}
+
+
+h1{
+  font-size: 36px;
+  font-weight: bolder;
+  margin: ;
+}
+
+img{
+  border-radius: 28px;
+  width: 100%;
+}
+
+.subtitle{
+  font-size: 16px;
+  font-style: italic;
+  text-align: center;
+  
+}
+
+h2{
+  font-size: 32px;
+  font-weight: bold;
+  
+}
+
+ol{
+  font-size: 28px;
+  font-weight: bold;
+}
+
+h3{
+  font-size: 28px;
+  font-weight: bold;
+}
+
+ul{
+  padding: 0px 30px;
+}
